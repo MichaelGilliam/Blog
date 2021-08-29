@@ -1,2 +1,4 @@
 # Blog
-This is my bloggggg
+This is my blog.
+Testing out this commit 
+
